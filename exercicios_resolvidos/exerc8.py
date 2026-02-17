@@ -1,5 +1,9 @@
 # Comando: Desenvolva um programa que leia uma distância em metros e mostre os valores relativos em outras medidas.
 
+#--------------------------------------------------------------
+#            CONVERSAO DE DISTANCIA
+#--------------------------------------------------------------
+
 dist = float(input("Digite uma distancia em metros: "))
 
 dam = dist / 10
