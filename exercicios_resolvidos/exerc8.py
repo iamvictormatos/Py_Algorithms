@@ -13,7 +13,7 @@ dm = dist * 10
 cm = dm * 10
 mm = cm * 10
 
-print(f"A distancia de {dist}m corresponde a: ")
+print(f"\nA distancia de {dist}m corresponde a: ")
 print(f"{km}km")
 print(f"{hm}hm")
 print(f"{dam}dam")

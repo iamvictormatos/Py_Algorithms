@@ -7,4 +7,4 @@
 money = float(input("Qual valor disponivel em sua carteira?: "))
 dolar = money / 3.45
 
-print(f"Voce pode comprar Us${dolar} com R${money}!")
+print(f"\nVoce pode comprar Us${dolar} com R${money}!")

@@ -4,4 +4,4 @@ nota1 = float(input("Nota 1: "))
 nota2 = float(input("Nota 2: "))
 m = (nota1 + nota2) / 2
 
-print(f"A media entre {nota1:.1f} e {nota2:.1f} e igual a {m:.1f}")
+print(f"\nA media entre {nota1:.1f} e {nota2:.1f} e igual a {m:.1f}")

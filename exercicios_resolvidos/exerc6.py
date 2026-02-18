@@ -4,5 +4,5 @@ number = int(input("Digite um numero: "))
 ant = number - 1
 suc = number + 1
 
-print(f"O antecessor de {number} e {ant}")
+print(f"\nO antecessor de {number} e {ant}")
 print(f"O sucessor de {number} e {suc}")
